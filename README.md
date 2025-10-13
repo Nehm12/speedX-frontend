@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# speedX-frontend
-Traitement de relevé Bancaire 
-=======
 # Fluxy - Extracteur de Relevés Bancaires
 
 ![Fluxy Logo](public/next.svg)
@@ -196,4 +192,3 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ---
 
 **Fluxy** - Révolutionner l'extraction de relevés bancaires avec l'IA ✨
->>>>>>> ae58b95 (Initial commit 🚀)

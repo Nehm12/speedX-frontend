@@ -165,7 +165,7 @@ export default function ExtractionParametersModal({
             {/* Document Number */}
             <div>
               <label htmlFor="documentNumber" className="block text-sm font-medium text-gray-700 mb-2">
-                Numéro de document
+                Numéro de piece
               </label>
               <input
                 type="text"
